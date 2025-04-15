@@ -1,0 +1,19 @@
+# IDE
+.vscode/
+
+# Python artifacts 
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints 
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+*.env
+
+# Log and system files
+*.log
+
+# Data files 
+data/
